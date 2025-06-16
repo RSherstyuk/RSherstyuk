@@ -1,6 +1,6 @@
 # Hi, my name is Ruslan 👋
 
-### Java/Kotlin developer
+### ML developer
 
 - 💼 I work as a Python Developer
 - 📚 Currently learning cs
