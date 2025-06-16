@@ -2,7 +2,7 @@
 
 ### Java/Kotlin developer
 
-- 💼 I work as a Kotlin Developer
+- 💼 I work as a Python Developer
 - 📚 Currently learning cs
 
 ---
