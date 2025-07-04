@@ -18,9 +18,12 @@ I hold a Bachelor's degree in **Computational Physics**, where I combined princi
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 #### Tools & Technologies
+- **Languages**: Python, MAPLE, C++  
 - **Version Control**: Git
 - **Build Tools**: CMake, Gradle
 - **Databases**: SQLite, PostgreSQL
 - **Other**: STL, Multithreading, REST APIs
-
+- **Data Science**: Pandas, Scikit-learn, TensorFlow/PyTorch  
+- **Visualization**: Matplotlib, Seaborn, Plotly  
+- **Computational Physics**: Numerical methods, Parallel computing, FFT, Finite Difference methods  
 ---
