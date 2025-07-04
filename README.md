@@ -1,5 +1,10 @@
 # Hi, my name is Ruslan 👋
 
+# Computational Physics & Data Science Portfolio
+
+## About Me
+I hold a Bachelor's degree in **Computational Physics**, where I combined principles of physics, mathematics, and computer science to solve complex problems. My academic background has equipped me with strong analytical skills and a solid foundation in numerical methods, simulations, and algorithmic thinking.
+
 ### ML developer
 
 - 💼 I work as a Python Developer
