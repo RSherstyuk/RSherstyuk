@@ -7,15 +7,12 @@ I hold a Bachelor's degree in **Computational Physics**, where I combined princi
 
 ### ML developer
 
-- 💼 I work as a Python Developer
+- 💼 I work as a Python DS/ML Developer 
 - 📚 Currently learning cs
 
 ---
 
 ### 🛠️ Skills
-
-#### Programming Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 #### Tools & Technologies
 - **Languages**: Python, MAPLE, C++  
